@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reinasun
-- 👀 I’m interested in web3 and DeFi
-- 🌱 I’m currently learning solidity for smart contracts
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 I’m interested in emerging tech
+- 🌱 I’m currently working on smart contracts, AI, and machine learning
+- 💞️ I’m looking to collaborate on solving complicated tech issues
 - 📫 How to reach me solacereina@gmail.com
 
 <!---
